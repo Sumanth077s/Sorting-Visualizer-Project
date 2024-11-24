@@ -8,7 +8,7 @@
 }
 
 nav {
-  background-color: #3b3a3a;
+  background-color: #0a0909;
   color: white;
   display: -ms-grid;
   display: grid;
@@ -16,7 +16,7 @@ nav {
       grid-template-columns: 30% 60%;
   -webkit-column-gap: 10%;
           column-gap: 10%;
-  padding: 0% 5%;
+  padding: 0% -2%;
 }
 
 nav .array-inputs {
@@ -84,7 +84,7 @@ nav .header_right .algos button {
 }
 
 nav .header_right .algos button:hover {
-  background-color: blue;
+  background-color: rgb(36, 241, 8);
   cursor: pointer;
 }
 
